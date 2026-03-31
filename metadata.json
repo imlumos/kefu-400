@@ -1,0 +1,7 @@
+{
+  "name": "热线客服 AI 自研系统",
+  "description": "专注热线场景的 AI 机器人配置与会话追溯平台，集成大模型对话策略、FAQ 知识库及运营看板。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
